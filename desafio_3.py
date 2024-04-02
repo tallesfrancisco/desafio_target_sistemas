@@ -6,7 +6,7 @@ lista_a : List[int] = [1, 3, 5, 7]
 lista_b : List[int] = [2, 4, 8, 16, 32, 64]
 lista_c : List[int] = [0, 1, 4, 9, 16, 25, 36]
 lista_d : List[int] = [4, 16, 36, 64]
-lista_e : List[int] = [1, 1, 2, 3, 5, 8, 13, 21]
+lista_e : List[int] = [1, 1, 2, 3, 5, 8]
 lista_f : List[int] = [2,10, 12, 16, 17, 18, 19]
 
 def descobrir_proximo_numero(lista: list) -> list:
